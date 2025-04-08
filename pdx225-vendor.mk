@@ -207,6 +207,7 @@ PRODUCT_PACKAGES += \
     libets_teeclient_v2 \
     libface_landmark.arcsoft \
     libjpege \
+    libmctfengine_stub \
     libmmcamera_bestats \
     libmmcamera_cac3 \
     libmmcamera_faceproc \
